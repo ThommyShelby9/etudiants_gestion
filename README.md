@@ -39,9 +39,4 @@ npm run dev
 npm run build
 ```
 
-Pour la connexion
-email = luc@gmail.com
-password = missimawu
-
-lien de deploiement
-https://main--gestion-des-etudiants.netlify.app/
+Dans ce dossier ce trouve un dossier nommé backend. Vous lancez le dossier backend à part ainsi que le dossier frontend. N'oubliez pas d'activer votre base de données MongoDB
